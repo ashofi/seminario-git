@@ -1,1 +1,1 @@
-Seminario fit desde cero
+Seminario git desde cero
